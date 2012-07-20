@@ -1,0 +1,14 @@
+88c993e4bda6613f6c3d45eb7d567fb3 *DESCRIPTION
+b81e03a1aa6ee4bbe3b2c559ad7236a9 *NAMESPACE
+192c9642856bfed4346d9b99550ebd50 *R/alpha.optim.R
+a914a65b670db4c1802e1f129845763d *R/analy.deriv.R
+7a8ef8075d145971783df03624b07555 *R/criteria.R
+8437693899e877075fd88e5d79ebedf6 *R/obliclus.R
+7cb93f9e3466e0451951638c98925dea *R/random.cluster.C.R
+7264a92edb1b8de6ac8c6ddafd4b6cc3 *man/alpha.optim.Rd
+19d07b969228fade8a876536a3600de7 *man/analy.deriv.Rd
+951c9154abca0bbf9279a86f80accf56 *man/criteria.Rd
+c4705a4eef5e5d73c6eb6725f1e09334 *man/obliclus.Rd
+fde6a4800afb0b45686f972e1137691b *man/random.cluster.C.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+e01bb958cdc1a7548938f8192d264afc *src/random_cluster_C.c
